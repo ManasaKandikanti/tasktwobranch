@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 watermelon
+=======
+2three
+>>>>>>> first
